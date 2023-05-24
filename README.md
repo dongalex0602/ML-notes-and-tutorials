@@ -6,3 +6,5 @@ https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph008955021
 
 * Machine Learning with Pytorch and Scikit-Learn by Sebastian Raschka, et al.:\
 https://bobcat.library.nyu.edu/permalink/f/1pdfnlu/nyu_aleph008654761
+
+Along with some other helpful tutorials.
