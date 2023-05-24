@@ -1,6 +1,6 @@
 # notes-and-tutorials
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron:
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron:\
 https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph008955021
 
-Machine Learning with Pytorch and Scikit-Learn by Sebastian Raschka, et al.:
+Machine Learning with Pytorch and Scikit-Learn by Sebastian Raschka, et al.:\
 https://bobcat.library.nyu.edu/permalink/f/1pdfnlu/nyu_aleph008654761
